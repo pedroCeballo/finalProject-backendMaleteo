@@ -1,0 +1,13 @@
+{
+    "nombre":"",
+    "cuidad":"",
+    "ubicacion": "",
+    "descripcion": "",
+    "horario": "",
+    "tarifa": "",
+    "disponibilidad":"",
+    "fotos": "#",
+    "fotoLugar":"#",
+    "fotosLugar":"#",
+    "email":""
+}
